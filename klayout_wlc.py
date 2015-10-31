@@ -24,14 +24,6 @@ def run():
     store = []
     Area = 0
     nofile = 0
-##    def semi():
-##        data = raw_input("Add data here")
-##        broken = data.split("\n")
-##        for i in range(len(broken)):
-##            b = broken[i].split("\t")
-##            c = (float(b[0]),float(b[1]))
-##            store.append(c)
-##    #hefa()
 
     start = 0
     while True:
